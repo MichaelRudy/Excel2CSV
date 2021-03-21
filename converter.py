@@ -91,7 +91,7 @@ def xlsx_to_csv_converter():
                 print("Failed to convert  "+file+" - "+str(error))
                 continue
 
-            #removes original .xlsx file from output folder --> end results contains unique csv files
+            #removes original .xlsx file from output folder --> output folder contains unique csv files unless file could not be converted due to XLRDError
             os.remove(file)
                 
 def main():
