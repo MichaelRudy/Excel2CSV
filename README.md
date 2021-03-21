@@ -28,6 +28,7 @@
 
 - Open terminal and cd into directory containing Excel2CSV-main (do not cd into the main folder)
 - Run the following command: python3 Excel2CSV-main/converter.py
+- 
 ![Screen Shot 2021-03-21 at 1 42 03 PM](https://user-images.githubusercontent.com/80732776/111915152-39b0cb00-8a4b-11eb-985a-0d8586361f88.png)
  
  ![Screen Shot 2021-03-21 at 1 43 02 PM](https://user-images.githubusercontent.com/80732776/111915186-5cdb7a80-8a4b-11eb-8f5e-dcd17e0a9ca5.png)
