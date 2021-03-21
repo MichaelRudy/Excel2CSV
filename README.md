@@ -1,5 +1,5 @@
 # Excel2CSV
-- Converts excel files types (.xlsx) to .csv from working directory through subdirectories (files contained in nested folders)
+- Converts excel files types to csv from working directory through subdirectories (i.e. for files contained in nested folders)
 - Duplicates file before converting file type to preserve original data - file is converted to csv file type in Excel2CSV_Output
 - Output folder contains converted file types for all folders/subfolders processed.
 - CSV files are created for each sheet contained in an excel file.
