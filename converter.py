@@ -10,7 +10,7 @@ Steps to execute script:
 1. Copy and paste Excel2CSV into Directory containing files/folders.
 2. cd into directory that contains Excel2CSV (do not cd into Batch Convert)
 3. Run the following command: python3 Excel2CSV/converter.py 
-4. Dumped files will appear Excel2CSV_Output in the working directory.
+4. Converted files will appear in Excel2CSV_Output in the working directory.
 
 
 By Michael A. Rudy
