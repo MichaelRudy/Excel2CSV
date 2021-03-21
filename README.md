@@ -15,10 +15,6 @@
 - Converts .xlsx file types to .csv for programs that process unicode encoded files. 
 - Portability allows users to process excel files by simply copying and pasting Excel2CSV into directories.
 
-## Further Builds
-- Create similar function to process .docx to .txt with UTF-8 encoding.
-
-
 ## DEMO
 
 - Copy and paste Excel2CSV-main into any directory. Script will walk through each folder and scan for files that end with '.xlsx'
@@ -36,4 +32,6 @@
 
 <img width="743" alt="Screen Shot 2021-03-21 at 1 44 49 PM" src="https://user-images.githubusercontent.com/80732776/111915251-9ca26200-8a4b-11eb-917a-d7661e294e5f.png">
 
+## TO-DO
+- Create similar function to process .docx to .txt with UTF-8 encoding.
 
