@@ -17,3 +17,19 @@
 
 ## Further Builds
 - Create similar function to process .docx to .txt with UTF-8 encoding.
+
+
+## DEMO
+
+- Copy and paste Excel2CSV-main into any directory. Script will walk through each folder and scan for files that end with '.xlsx'
+<img width="769" alt="Screen Shot 2021-03-21 at 1 38 17 PM" src="https://user-images.githubusercontent.com/80732776/111915010-b2fbee00-8a4a-11eb-90d6-7a934da9d40e.png">
+
+- Open terminal and cd into directory containing Excel2CSV-main (do not cd into the main folder)
+- Run the following command: python3 Excel2CSV-main/converter.py
+- ![Screen Shot 2021-03-21 at 1 42 03 PM](https://user-images.githubusercontent.com/80732776/111915152-39b0cb00-8a4b-11eb-985a-0d8586361f88.png)
+ 
+ ![Screen Shot 2021-03-21 at 1 43 02 PM](https://user-images.githubusercontent.com/80732776/111915186-5cdb7a80-8a4b-11eb-8f5e-dcd17e0a9ca5.png)
+
+- Output folder will appear in the working directory
+
+<img width="776" alt="Screen Shot 2021-03-21 at 1 43 25 PM" src="https://user-images.githubusercontent.com/80732776/111915196-6a910000-8a4b-11eb-929d-f228563e623f.png">
