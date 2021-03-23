@@ -16,8 +16,10 @@
 - Portability allows users to process excel files by simply copying and pasting Excel2CSV into directories.
 
 ## Excel vs CSV File Content Visual
+- Example of 'more file.xlsx'
 ![Screen Shot 2021-03-22 at 11 23 15 PM](https://user-images.githubusercontent.com/80732776/112088117-956f7700-8b65-11eb-9bcd-65aa401df4ac.png)
 
+- Example of 'more file.csv'
 ![Screen Shot 2021-03-22 at 11 24 46 PM](https://user-images.githubusercontent.com/80732776/112088216-cbacf680-8b65-11eb-99fa-d815494ead5a.png)
 
 
